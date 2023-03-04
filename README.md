@@ -48,16 +48,16 @@
         <img src="https://komarev.com/ghpvc/?username=Richu-Antony">
     </a>
     <a href="#">
-        <img src="https://img.shields.io/github/last-commit/Richu-Antony/Python_Programmes" alt="GitHub Badge">
+        <img src="https://img.shields.io/github/last-commit/Richu-Antony/Java_Programmes" alt="GitHub Badge">
     </a>
     <a href="#">
-        <img src="https://img.shields.io/github/languages/top/Richu-Antony/Python_Programmes" alt="GitHub Badge">
+        <img src="https://img.shields.io/github/languages/top/Richu-Antony/Java_Programmes" alt="GitHub Badge">
     </a>
     <a href="#">
-        <img src="https://img.shields.io/github/repo-size/Richu-Antony/Python_Programmes" alt="GitHub Badge">
+        <img src="https://img.shields.io/github/repo-size/Richu-Antony/Java_Programmes" alt="GitHub Badge">
     </a>
     <a href="#">
-        <img src="https://img.shields.io/github/stars/Richu-Antony/Python_Programmes" alt="GitHub Badge">
+        <img src="https://img.shields.io/github/stars/Richu-Antony/Java_Programmes" alt="GitHub Badge">
     </a>
     <a href="#">
         <img src="https://img.shields.io/github/followers/Richu-Antony?label=Followers" alt="GitHub Badge">
@@ -69,7 +69,7 @@
 <!-- About -->
 #
 # 🌞About
-<p align="justify">Python programming is a high-level programming language that is intended for general-purpose use. Python is simple to learn and use, and it has a large and active developer community. Python is commonly used in data science, machine learning, web development, and scientific computing. Python is compatible with a variety of programming paradigms, including procedural, object-oriented, and functional programming. Python programmes can be written and run on a number of different platforms, including Windows, Mac, and Linux. Python programming is known for its readability and conciseness, which makes complex code easy to write and understand. Python has a large standard library with pre-built modules for a wide range of tasks, including web scraping, data analysis, and cryptography.<br><br>Python is also well-known for its large number of third-party libraries, such as NumPy, Pandas, and TensorFlow, which add functionality to specific tasks. Python programme development necessitates familiarity with programming concepts such as variables, functions, loops, and conditional statements, as well as Python-specific concepts such as modules, packages, and classes. Python programming can be used to create desktop applications, web applications, and mobile applications, among other things.</p>
+<p align="justify">Many programming paradigms, including procedural, object-oriented, and functional programming, are supported by Java programming. Java has a large standard library with pre-built classes and methods for a wide range of tasks, including input/output operations, network programming, and database connectivity. Third-party libraries and frameworks, such as Spring, Hibernate, and Struts, can be used in Java programmes to provide additional functionality for specific tasks.<br><br>Variables, data types, loops, conditional statements, and functions are all programming concepts that must be understood. Java also employs a class-based object-oriented programming model, which necessitates familiarity with classes, objects, and inheritance. Java programme development necessitates the use of an Integrated Development Environment (IDE), such as Eclipse or NetBeans, which includes tools for writing, testing, and debugging Java code.</p>
 
 
 
