@@ -48,16 +48,16 @@
         <img src="https://komarev.com/ghpvc/?username=Richu-Antony">
     </a>
     <a href="#">
-        <img src="https://img.shields.io/github/last-commit/Richu-Antony/Java_Programmes" alt="GitHub Badge">
+        <img src="https://img.shields.io/github/last-commit/Richu-Antony/Python_Programmes" alt="GitHub Badge">
     </a>
     <a href="#">
-        <img src="https://img.shields.io/github/languages/top/Richu-Antony/Java_Programmes" alt="GitHub Badge">
+        <img src="https://img.shields.io/github/languages/top/Richu-Antony/Python_Programmes" alt="GitHub Badge">
     </a>
     <a href="#">
-        <img src="https://img.shields.io/github/repo-size/Richu-Antony/Java_Programmes" alt="GitHub Badge">
+        <img src="https://img.shields.io/github/repo-size/Richu-Antony/Python_Programmes" alt="GitHub Badge">
     </a>
     <a href="#">
-        <img src="https://img.shields.io/github/stars/Richu-Antony/Java_Programmes" alt="GitHub Badge">
+        <img src="https://img.shields.io/github/stars/Richu-Antony/Python_Programmes" alt="GitHub Badge">
     </a>
     <a href="#">
         <img src="https://img.shields.io/github/followers/Richu-Antony?label=Followers" alt="GitHub Badge">
